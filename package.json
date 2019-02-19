@@ -1,0 +1,16 @@
+{
+  "name": "mainbb",
+  "version": "1.0.0",
+  "description": "This is a coding bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YT_Prominecraft",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1",
+    "superagent": "^4.1.0"
+  }
+}
